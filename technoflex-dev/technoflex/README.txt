@@ -2,12 +2,14 @@
 ABOUT THIS THEME
 =================
 
-CTI Flex is a highly configurable sub-theme of the Zen base theme for Drupal 7. 
-On the theme settings page, users can select a page layout, a color-scheme, 
-font-family and font-size and can select from different options for block corner 
-styles. In addition, if the Skinr module is installed, several block styles 
-are provided to match the available color schemes. Finally, the theme has 
-been set up to allow for easy development of your own custom color scheme. 
+Technoflex is a customization and continuation of CTI Flex, primarily intended
+for the website technotherapy.org. CTI Flex is a highly configurable sub-theme
+of the Zen base theme for Drupal 7. On the theme settings page, users can select
+a page layout, a color-scheme,font-family and font-size and can select from
+different options for block cornerstyles. In addition, if the Skinr module is
+installed, several block styles are provided to match the available color schemes.
+Finally, the theme has been set up to allow for easy development of your own custom 
+color scheme. 
 
 THEME FEATURES
 ==============
